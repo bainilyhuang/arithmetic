@@ -77,3 +77,7 @@ SQUARE-MATRIX-MULTIPLY(A,B)
 6         for k=1 to n
 7             Cij=Cij+Aik*Bkj
 8 return C
+
+一个简单的分治算法
+SQUARE-MATRIX-MULTIPLY-RECURSIVE(A,B)
+n=A.rows
