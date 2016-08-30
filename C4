@@ -77,6 +77,3 @@ SQUARE-MATRIX-MULTIPLY(A,B)
 6         for k=1 to n
 7             Cij=Cij+Aik*Bkj
 8 return C
-
-
- 
