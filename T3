@@ -1,0 +1,3 @@
+stack:栈 LIFO:后进先出
+queue:队列 FIFO:先进先出
+linked list:链表 (单链表,双链表,有序链表,无序链表,循环链表)
